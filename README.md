@@ -6,7 +6,7 @@ I also maintain a [blog](https://pflaumax.dev/blog/) where I write about some of
 
 🌐 Website:  https://pflaumax.dev
 
-🦣 Mastodon:  https://fosstodon.org/@pflaumax  
+🦣 Mastodon: https://hachyderm.io/@fau
 
 📧 Email:  max@pflaumax.dev  
 
