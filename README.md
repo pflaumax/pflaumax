@@ -2,9 +2,11 @@
 I'm creating some `random_code()` things. Contributors are welcome.
 
 
-🌐 Website:  https://pflaumax.dev
+🌐 [Website](https://pflaumax.dev)
 
-🦣 Mastodon: https://hachyderm.io/@fau
+🦣 [Mastodon](https://hachyderm.io/@fau)
 
-📧 Email:  max@pflaumax.dev  
+☁️ [Bluesky](https://bsky.app/profile/pflaumax.dev)
+
+📧 [Email](mailto:max@pflaumax.dev)
 
